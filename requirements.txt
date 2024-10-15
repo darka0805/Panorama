@@ -1,6 +1,7 @@
-opencv-python (cv2)
-numpy
-matplotlib
-pandas
-geopandas
-rasterio
+Python   3.10.4
+OpenCV (cv2) 4.5.5
+numpy   1.23.5
+matplotlib   3.5.1
+pandas   1.4.3
+geopandas (gpd)   0.11.1
+rasterio   1.4.1
